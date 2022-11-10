@@ -12,7 +12,7 @@
 - 📫 Reach me asap: <a href="https://twitter.com/Lmarc_dev/">Twitter</a> or luca.marcdev@gmail.com
 - 💜 Interests: Programming, teaching, foodie, anything tech
 - 😄 Passionate about accessibility and committed to a web that works for everyone
-- <link href="ij" />
+
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/369b77252/">LinkedIn</a>
 
