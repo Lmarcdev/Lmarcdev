@@ -14,7 +14,7 @@
 - 😄 Passionate about accessibility and committed to a web that works for everyone
 
 #### Find me around the web 🌎:
-- 💼 Connecting and sharing professional updates on <a href="www.linkedin.com/in/luca-marconi-369b77252
+- 💼 Connecting and sharing professional updates on <a href="https://linkedin.com/in/luca-marconi-369b77252
 ">LinkedIn</a>
 
 - 🐦 Tweeting about coding, memes and sharing tech tweets on <a href="https://twitter.com/Lmarc_dev/">Twitter</a>
